@@ -1,0 +1,4 @@
+name: TotemCurse
+version: '${project.version}'
+main: net.ignaproo.totemcurse.main
+api-version: '1.19'
